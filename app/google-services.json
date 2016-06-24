@@ -1,0 +1,51 @@
+{
+  "project_info": {
+    "project_number": "870965137465",
+    "project_id": "digi-6a621"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870965137465:android:3a7c181efaa9a6db",
+        "android_client_info": {
+          "package_name": "com.digispeaker.digi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "870965137465-k1i300952cenqtf0bhv6b911bo800ka4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.digispeaker.digi",
+            "certificate_hash": "E9326FDD46806250D44D8EB29D8BB79FE3A0ADB6"
+          }
+        },
+        {
+          "client_id": "870965137465-du7db61jln0q6t3ciitnmfndnkchik0n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2nQNaZ_x2WTunOLMBiYRsmGKpclKQkNQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 2,
+          "analytics_property": {
+            "tracking_id": "UA-79604438-1"
+          }
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
