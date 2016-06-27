@@ -41,6 +41,7 @@ dependencies {
     // Dependency for AWS signin
     compile 'com.amazonaws:aws-android-sdk-core:2.2.+'
     compile 'com.amazonaws:aws-android-sdk-cognito:2.2.+'
+    compile 'com.amazonaws:aws-android-sdk-cognitoidentityprovider:2.2.15+'
 
     // UiAutomatorTesting
     androidTestCompile 'com.android.support.test:runner:0.5'
